@@ -24,3 +24,16 @@ header{
   margin: auto;
   display: inline-block;
 }
+footer{
+  text-align: center;
+}
+
+footer p{
+  margin: 1.5em auto;
+  padding: 1.5em;
+  text-align: center;
+  display: inline-block;
+  border: 2px white solid;
+  border-radius: 70% 70% 70% 70%;
+  color: white;
+}
