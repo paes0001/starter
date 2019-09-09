@@ -1,0 +1,26 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+
+header{
+  height: 7.5em;
+  margin: 1em;
+  align-content: center;
+  background-color: lightgray;
+  border-radius: 5%;
+}
+
+#Logo{
+  margin: auto;
+  padding-top: 1em;
+  display: flex;
+}
+
+#Logo a{
+  color: darkgreen;
+  text-decoration: none;
+  margin: auto;
+  display: inline-block;
+}
